@@ -1,0 +1,1 @@
+a basic chatbot implementation using ChatOllama for generating responses and OllamaEmbeddings for taking in account of user's input documents all connected using langchain and deployed in website format through the steamlit framework.
