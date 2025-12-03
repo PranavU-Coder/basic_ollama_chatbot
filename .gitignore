@@ -1,2 +1,8 @@
 # virtual env
 /chatbot
+
+# python cache
+/src/__pycache__
+
+# document piling incase that happens
+/src/*.pdf
